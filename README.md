@@ -16,8 +16,8 @@ Easy, Simple, Small Signal Generator https://github.com/ghz-ws/LPC1114-easySG <b
 4-ch Function Generator  https://github.com/ghz-ws/LPC1114-4chFG-AD9102 <br>
 Impedance Analyzer https://github.com/ghz-ws/LPC1768-IA <br>
 2-ch RF Signal Generator https://github.com/ghz-ws/LPC1114-RFSG <br>
-4-ch High Frequency Signal Generator https://github.com/ghz-ws/LPC1114-4chSG-AD9859 <br>
-4-ch High Frequency Signal Generator https://github.com/ghz-ws/LPC1114-4chSG-AD9910 <br>
+4-ch High Frequency (300MHz) Signal Generator https://github.com/ghz-ws/LPC1114-4chSG-AD9859 <br>
+4-ch High Frequency (600MHz) Signal Generator https://github.com/ghz-ws/LPC1114-4chSG-AD9910 <br>
 4-ch RF-VGA https://github.com/ghz-ws/LPC1768-RFVGA <br>
 
 -PSU<br>
