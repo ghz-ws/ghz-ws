@@ -1,6 +1,6 @@
 # Welcome!!
 
-![IMG_5635](https://github.com/ghz-ws/ghz-ws/assets/52226620/bf208472-be28-477a-82d9-1350380e0d15)
+![IMG_5635](https://github.com/ghz-ws/ghz-ws/assets/52226620/bf208472-be28-477a-82d9-1350380e0d15 width="50%")
 
 Repository List<br>
 
@@ -26,7 +26,7 @@ Repository List<br>
 [easy-SA](https://github.com/ghz-ws/LPC812-SA)<br>
 [easy-VNA](https://github.com/ghz-ws/LPC812-VNA)<br>
 
--PSU<br>
+## PSU
 [Digital Voltage/Current Meter (Mobile)](https://github.com/ghz-ws/LPC1768-DVM)<br>
 [Digital Voltage/Current Meter (Bnechtop)](https://github.com/ghz-ws/LPC1768-DVM-ver2)<br>
 [Hybrid PSU(15V1A)](https://github.com/ghz-ws/LPC1768-PSU)<br>
@@ -35,7 +35,7 @@ Repository List<br>
 [4-Quadrant High power Bipolar PSU(+-12V/1A, Benchtop)](https://github.com/ghz-ws/LPC1768-High-power-Bipolar-PSU)<br>
 [4-Quadrant Bipolar PSU(+-15V/0.4A, Benchtop)](https://github.com/ghz-ws/LPC1114-Bipolar-PSU)<br>
 
--Others<br>
+## Others
 [Cheap Digital Resistance Meter](https://github.com/ghz-ws/LPC812-R-Meter)<br>
 [Cheap Digital Voltage Meter](https://github.com/ghz-ws/LPC812-DVM)<br>
 [Cheap K-type Thermometer](https://github.com/ghz-ws/LPC812-K-thermometer)<br>
