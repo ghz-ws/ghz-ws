@@ -29,8 +29,8 @@ Repository List<br>
 ## PSU
 [Digital Voltage/Current Meter (Mobile)](https://github.com/ghz-ws/LPC1768-DVM)<br>
 [Digital Voltage/Current Meter (Bnechtop)](https://github.com/ghz-ws/LPC1768-DVM-ver2)<br>
-[Hybrid PSU(15V1A)](https://github.com/ghz-ws/LPC1768-PSU)<br>
-[Hybrid PSU(30V1.5A)](https://github.com/ghz-ws/LPC1114-Hybrid-PSU)<br>
+[Hybrid PSU(15V1A, Mobile)](https://github.com/ghz-ws/LPC1768-PSU)<br>
+[Hybrid PSU(30V1.5A, Benchtop)](https://github.com/ghz-ws/LPC1114-Hybrid-PSU)<br>
 [4-Quadrant Bipolar PSU(+-10V/0.2A, Mobile)](https://github.com/ghz-ws/LPC1768-Bipolar-PSU)<br>
 [4-Quadrant High power Bipolar PSU(+-12V/1A, Benchtop)](https://github.com/ghz-ws/LPC1768-High-power-Bipolar-PSU)<br>
 [4-Quadrant Bipolar PSU(+-15V/0.4A, Benchtop)](https://github.com/ghz-ws/LPC1114-Bipolar-PSU)<br>
