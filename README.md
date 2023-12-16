@@ -14,11 +14,11 @@ Repository List<br>
 ## RF
 [scilab RF toolbox and other RF scripts](https://github.com/ghz-ws/scilab_rftools)<br>
 [Easy, Simple, Small Signal Generator](https://github.com/ghz-ws/LPC1114-easySG)<br>
-[4-ch Signal Generator](https://github.com/ghz-ws/LPC1114-4chSG-AD9834)<br>
-[2-ch Signal Generator with Log Amp](https://github.com/ghz-ws/LPC1114-2chSG-AD9834-with-LOGamp)<br>
-[4-ch Function Generator](https://github.com/ghz-ws/LPC1114-4chFG-AD9102)<br>
-[Impedance Analyzer](https://github.com/ghz-ws/LPC1768-IA)<br>
-[2-ch RF Signal Generator](https://github.com/ghz-ws/LPC1114-RFSG)<br>
+[25MHz 4-ch Signal Generator](https://github.com/ghz-ws/LPC1114-4chSG-AD9834)<br>
+[25MHz 2-ch Signal Generator with Log Amp](https://github.com/ghz-ws/LPC1114-2chSG-AD9834-with-LOGamp)<br>
+[25MHz 4-ch Function Generator](https://github.com/ghz-ws/LPC1114-4chFG-AD9102)<br>
+[1MHz Impedance Analyzer](https://github.com/ghz-ws/LPC1768-IA)<br>
+[35MHz-4.4GHz 2-ch RF Signal Generator](https://github.com/ghz-ws/LPC1114-RFSG)<br>
 [4-ch High Frequency (300MHz) Signal Generator](https://github.com/ghz-ws/LPC1114-4chSG-AD9859)<br>
 [4-ch High Frequency (600MHz) Signal Generator](https://github.com/ghz-ws/LPC1114-4chSG-AD9910)<br>
 [4-ch RF-VGA](https://github.com/ghz-ws/LPC1768-RFVGA)<br>
