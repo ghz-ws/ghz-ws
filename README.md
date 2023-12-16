@@ -1,7 +1,7 @@
 # Welcome!!
-
-<img src="https://github.com/ghz-ws/ghz-ws/assets/52226620/bf208472-be28-477a-82d9-1350380e0d15" width="50%">
-
+<p align="center">
+<img src="https://github.com/ghz-ws/ghz-ws/assets/52226620/bf208472-be28-477a-82d9-1350380e0d15" width="70%">
+</p>
 Repository List<br>
 
 ## FPGA
