@@ -25,6 +25,7 @@ Repository List<br>
 [4-Port VNA](https://github.com/ghz-ws/LPC1768-VNA)<br>
 [easy-SA](https://github.com/ghz-ws/LPC812-SA)<br>
 [easy-VNA](https://github.com/ghz-ws/LPC812-VNA)<br>
+[easy-ECAL](https://github.com/ghz-ws/easy-ECAL)<br>
 
 ## PSU
 [Digital Voltage/Current Meter (Mobile)](https://github.com/ghz-ws/LPC1768-DVM)<br>
