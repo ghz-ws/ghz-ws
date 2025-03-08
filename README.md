@@ -38,6 +38,8 @@ Repository List<br>
 [4-Quadrant Bipolar PSU(+-15V/0.4A, Benchtop)](https://github.com/ghz-ws/LPC1114-Bipolar-PSU)<br>
 
 ## Others
+[LED board like Flux Capacitor](https://github.com/ghz-ws/LPC812-flux-cap)<br>
+[Smith Chart LED Illumination board](https://github.com/ghz-ws/LPC1114-Smithchart-Illumination)<br>
 [USB PD voltage source](https://github.com/ghz-ws/LPC1114-AP33772S)<br>
 [GNSS Receiver and GPSDO](https://github.com/ghz-ws/gnss_rec)<br>
 [Cheap Digital Resistance Meter](https://github.com/ghz-ws/LPC812-R-Meter)<br>
