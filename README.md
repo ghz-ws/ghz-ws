@@ -4,16 +4,17 @@
 </p>
 Repository List<br>
 
+##Type-C
+[USB PD voltage adaptor](https://github.com/ghz-ws/LPC1114-AP33772S)<br>
+
 ## FPGA
 [DSP by FPGA with Scilab filter designer](https://github.com/ghz-ws/fpga_dsp)<br>
 [FPGA based AWG](https://github.com/ghz-ws/fpga_awg)<br>
-[FPGA based Receiver](https://github.com/ghz-ws/fpga_receiver)<br>
 [SystemVerilog Sample Codes](https://github.com/ghz-ws/fpga_sv)<br>
 [Delta-Sigma ADC&DAC by FPGA](https://github.com/ghz-ws/fpga_dsm)<br>
 
 ## RF
 [scilab RF toolbox and other RF scripts](https://github.com/ghz-ws/scilab_rftools)<br>
-[Easy, Simple, Small Signal Generator](https://github.com/ghz-ws/LPC1114-easySG)<br>
 [25MHz 4-ch Signal Generator](https://github.com/ghz-ws/LPC1114-4chSG-AD9834)<br>
 [25MHz 2-ch Signal Generator with Log Amp](https://github.com/ghz-ws/LPC1114-2chSG-AD9834-with-LOGamp)<br>
 [25MHz 4-ch Function Generator](https://github.com/ghz-ws/LPC1114-4chFG-AD9102)<br>
@@ -22,10 +23,8 @@ Repository List<br>
 [4-ch High Frequency (300MHz) Signal Generator](https://github.com/ghz-ws/LPC1114-4chSG-AD9859)<br>
 [4-ch High Frequency (600MHz) Signal Generator](https://github.com/ghz-ws/LPC1114-4chSG-AD9910)<br>
 [4-ch RF-VGA](https://github.com/ghz-ws/LPC1768-RFVGA)<br>
-[4-Port VNA](https://github.com/ghz-ws/LPC1768-VNA)<br>
 [easy-SA](https://github.com/ghz-ws/LPC812-SA)<br>
-[easy-VNA](https://github.com/ghz-ws/LPC812-VNA)<br>
-[easy-ECAL](https://github.com/ghz-ws/easy-ECAL)<br>
+[GNSS Receiver and GPSDO](https://github.com/ghz-ws/gnss_rec)<br>
 
 ## PSU
 [Digital Voltage/Current Meter (Mobile)](https://github.com/ghz-ws/LPC1768-DVM)<br>
@@ -39,8 +38,6 @@ Repository List<br>
 ## Others
 [LED board like Flux Capacitor](https://github.com/ghz-ws/LPC812-flux-cap)<br>
 [Smith Chart LED Illumination board](https://github.com/ghz-ws/LPC1114-Smithchart-Illumination)<br>
-[USB PD voltage adaptor](https://github.com/ghz-ws/LPC1114-AP33772S)<br>
-[GNSS Receiver and GPSDO](https://github.com/ghz-ws/gnss_rec)<br>
 [Cheap Digital Resistance Meter](https://github.com/ghz-ws/LPC812-R-Meter)<br>
 [Cheap Digital Voltage Meter](https://github.com/ghz-ws/LPC812-DVM)<br>
 [Cheap K-type Thermometer](https://github.com/ghz-ws/LPC812-K-thermometer)<br>
