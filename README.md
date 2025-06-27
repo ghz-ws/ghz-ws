@@ -4,7 +4,7 @@
 </p>
 Repository List<br>
 
-##Type-C
+## Type-C
 [USB PD voltage adaptor](https://github.com/ghz-ws/LPC1114-AP33772S)<br>
 
 ## FPGA
