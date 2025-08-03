@@ -9,9 +9,7 @@ Repository List<br>
 
 ## FPGA
 [DSP by FPGA with Scilab filter designer](https://github.com/ghz-ws/fpga_dsp)<br>
-[FPGA based AWG](https://github.com/ghz-ws/fpga_awg)<br>
 [SystemVerilog Sample Codes](https://github.com/ghz-ws/fpga_sv)<br>
-[Delta-Sigma ADC&DAC by FPGA](https://github.com/ghz-ws/fpga_dsm)<br>
 
 ## RF
 [scilab RF toolbox and other RF scripts](https://github.com/ghz-ws/scilab_rftools)<br>
