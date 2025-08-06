@@ -21,7 +21,6 @@ Repository List<br>
 [35MHz-4.4GHz 2-ch RF Signal Generator](https://github.com/ghz-ws/LPC1114-RFSG)<br>
 [4-ch High Frequency (300MHz) Signal Generator](https://github.com/ghz-ws/LPC1114-4chSG-AD9859)<br>
 [4-ch High Frequency (600MHz) Signal Generator](https://github.com/ghz-ws/LPC1114-4chSG-AD9910)<br>
-[4-ch RF-VGA](https://github.com/ghz-ws/LPC1768-RFVGA)<br>
 [easy-SA](https://github.com/ghz-ws/LPC812-SA)<br>
 [GNSS Receiver and GPSDO](https://github.com/ghz-ws/gnss_rec)<br>
 
