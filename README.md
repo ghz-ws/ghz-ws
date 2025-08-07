@@ -6,6 +6,8 @@ Repository List<br>
 
 ## Type-C
 [USB PD voltage adaptor](https://github.com/ghz-ws/LPC1114-AP33772S)<br>
+[USB PD Power Supply Adaptor](https://github.com/ghz-ws/LPC1114-PD-PS)<br>
+[USB PD Line Checker](https://github.com/ghz-ws/LPC1114-PD-checker)<br>
 
 ## FPGA
 [DSP by FPGA with Scilab filter designer](https://github.com/ghz-ws/fpga_dsp)<br>
@@ -32,6 +34,7 @@ Repository List<br>
 [4-Quadrant Bipolar PSU(+-10V/0.2A, Mobile)](https://github.com/ghz-ws/LPC1768-Bipolar-PSU)<br>
 [4-Quadrant High power Bipolar PSU(+-12V/1A, Benchtop)](https://github.com/ghz-ws/LPC1768-High-power-Bipolar-PSU)<br>
 [4-Quadrant Bipolar PSU(+-15V/0.4A, Benchtop)](https://github.com/ghz-ws/LPC1114-Bipolar-PSU)<br>
+[Small Voltage & Resistance meter](https://github.com/ghz-ws/LPC1114-VRM)<br>
 
 ## Others
 [LED board like Flux Capacitor](https://github.com/ghz-ws/LPC812-flux-cap)<br>
