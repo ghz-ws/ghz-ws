@@ -26,6 +26,7 @@ Repository List<br>
 [4-ch High Frequency (600MHz) Signal Generator](https://github.com/ghz-ws/LPC1114-4chSG-AD9910)<br>
 [easy-SA](https://github.com/ghz-ws/LPC812-SA)<br>
 [GNSS Receiver and GPSDO](https://github.com/ghz-ws/gnss_rec)<br>
+[Multi Signal Generator](https://github.com/ghz-ws/LPC1114-SG-MSG)<br>
 
 ## PSU
 [Digital Voltage/Current Meter (Mobile)](https://github.com/ghz-ws/LPC1768-DVM)<br>
