@@ -13,6 +13,7 @@ Repository List<br>
 [DSP by FPGA with Scilab filter designer](https://github.com/ghz-ws/fpga_dsp)<br>
 [SystemVerilog Sample Codes](https://github.com/ghz-ws/fpga_sv)<br>
 [AXI VIP tutorials](https://github.com/ghz-ws/AXI_VIP_tutorials)<br>
+[UART to AXI Master](https://github.com/ghz-ws/uart2axi)<br>
 
 ## RF
 [scilab RF toolbox and other RF scripts](https://github.com/ghz-ws/scilab_rftools)<br>
