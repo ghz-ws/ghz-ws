@@ -1,6 +1,6 @@
 # Welcome!!
 <p align="center">
-<img src="https://github.com/ghz-ws/ghz-ws/assets/52226620/bf208472-be28-477a-82d9-1350380e0d15" width="70%">
+![IMG_9170](https://github.com/user-attachments/assets/78a1fd9e-e171-4805-9e49-791be873321a)
 </p>
 Repository List<br>
 
